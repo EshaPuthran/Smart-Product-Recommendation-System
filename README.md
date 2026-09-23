@@ -260,18 +260,18 @@ The system returns products satisfying the specified conditions.
 
 This project demonstrates:
 
--REST APIs
--HTTP GET requests
--Query parameters
--JSON
--Python Requests library
--Pandas DataFrames
--Data filtering
--Data sorting
--Grouping and aggregation
--Data analysis
--CSV export
--Rule-based recommendation
+REST APIs
+HTTP GET requests
+Query parameters
+JSON
+Python Requests library
+Pandas DataFrames
+Data filtering
+Data sorting
+Grouping and aggregation
+Data analysis
+CSV export
+Rule-based recommendation
 
 ---
 
@@ -288,6 +288,7 @@ Possible future improvements include:
 -Machine learning-based recommendations
 -Web interface using Flask or Streamlit
 -Interactive dashboard
+
 ---
 
 ## Project Type
