@@ -260,18 +260,22 @@ The system returns products satisfying the specified conditions.
 
 This project demonstrates:
 
-REST APIs
-HTTP GET requests
-Query parameters
-JSON
-Python Requests library
-Pandas DataFrames
-Data filtering
-Data sorting
-Grouping and aggregation
-Data analysis
-CSV export
-Rule-based recommendation
+## 🎓 Concepts Demonstrated
+
+This project demonstrates:
+
+- REST APIs
+- HTTP GET requests
+- Query parameters
+- JSON
+- Python Requests library
+- Pandas DataFrames
+- Data filtering
+- Data sorting
+- Grouping and aggregation
+- Data analysis
+- CSV export
+- Rule-based recommendation
 
 ---
 
@@ -279,21 +283,20 @@ Rule-based recommendation
 
 Possible future improvements include:
 
--Interactive data visualization
--Product comparison
--Price range charts
--Rating charts
--Category charts
--Personalized recommendations
--Machine learning-based recommendations
--Web interface using Flask or Streamlit
--Interactive dashboard
+- Interactive data visualization
+- Product comparison
+- Price range charts
+- Rating charts
+- Category charts
+- Personalized recommendations
+- Machine learning-based recommendations
+- Web interface using Flask or Streamlit
+- Interactive dashboard
 
 ---
 
 ## Project Type
-
-## Mini Project
+Mini Project
 
 Domain: Data Analysis / REST API / Recommendation System
 
