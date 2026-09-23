@@ -234,7 +234,7 @@ pandas
 requests
 ```
 ---
-## 🧪 Example
+## Example
 
 ### Product Search
 
