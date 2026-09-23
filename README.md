@@ -71,7 +71,7 @@ Recommendation System
 CSV Export
 ```
 
-##Dataset Fields
+## Dataset Fields
 
 | Field | Description |
 |---|---|
@@ -83,7 +83,7 @@ CSV Export
 | `rating` | Product rating |
 | `stock` | Available stock |
 
-## 🔎 Features
+## Features
 
 ### 1. Product Search
 
@@ -95,6 +95,7 @@ Users can enter a product name or keyword.
 Enter product name or keyword: lipstick
 ```
 The system displays matching products.
+
 ---
 
 ### 2. Price Filtering
@@ -107,6 +108,7 @@ Users can enter a maximum price.
 Enter maximum price: 50
 ```
 The system displays products within the specified budget.
+
 ---
 
 ### 3. Rating Filtering
@@ -119,11 +121,13 @@ Users can specify a minimum rating.
 Users can specify a minimum rating.
 ```
 The system displays products with the required rating or higher.
+
 ---
 
 ### 4. Stock Filtering
 
 The system identifies products that are currently available in stock.
+
 ---
 
 ### 5. Product Sorting
@@ -132,6 +136,7 @@ Products can be sorted according to:
 
 -Price
 -Rating
+
 ---
 
 ### 6. Category Analysis
@@ -144,6 +149,7 @@ The analysis includes:
 -Average price
 -Average rating
 -Total stock
+
 ---
 ### 7. Product Recommendation
 
@@ -154,6 +160,7 @@ The recommendation system allows the user to specify:
 -Minimum stock
 
 The system then identifies products that satisfy the selected conditions.
+
 ---
 ### 8. Recommendation Score
 
@@ -164,6 +171,7 @@ A simple recommendation score is calculated using:
 -Product price
 
 Products are ranked according to this score.
+
 ---
 ## Project Files
 
@@ -197,6 +205,7 @@ Contains category-wise product analysis.
 **`README.md`**
 
 Contains project documentation.
+
 ---
 
 ### How to Run
@@ -214,6 +223,7 @@ Install the required libraries:
 pip install pandas requests
 ```
 Then open the notebook using Jupyter Notebook or JupyterLab.
+
 ---
 
 ## Requirements
@@ -223,7 +233,7 @@ Python 3.x
 pandas
 requests
 ```
-
+---
 ## 🧪 Example
 
 ### Product Search
@@ -244,6 +254,7 @@ Enter minimum rating: 4
 Enter minimum stock required: 5
 ```
 The system returns products satisfying the specified conditions.
+
 ---
 ## Concepts Demonstrated
 
@@ -261,6 +272,7 @@ This project demonstrates:
 -Data analysis
 -CSV export
 -Rule-based recommendation
+
 ---
 
 ## Future Enhancements
@@ -277,6 +289,7 @@ Possible future improvements include:
 -Web interface using Flask or Streamlit
 -Interactive dashboard
 ---
+
 ## Project Type
 
 ## Mini Project
@@ -286,6 +299,7 @@ Domain: Data Analysis / REST API / Recommendation System
 Platform: Google Colab
 
 Language: Python
+
 ---
 ## License
 
