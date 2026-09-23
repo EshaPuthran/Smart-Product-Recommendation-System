@@ -1,0 +1,33 @@
+id,title,brand,category,price,rating,stock
+42,Water,,groceries,0.99,4.96,53
+33,Mulberry,,groceries,4.99,4.95,99
+30,Kiwi,,groceries,2.49,4.93,99
+65,Lunch Box,,kitchen-accessories,12.99,4.93,94
+73,Spice Rack,,kitchen-accessories,19.99,4.87,79
+34,Nescafe Coffee,,groceries,7.99,4.82,57
+35,Potatoes,,groceries,2.29,4.81,13
+20,Cooking Oil,,groceries,4.99,4.8,10
+39,Soft Drinks,,groceries,1.99,4.75,53
+62,Ice Cube Tray,,kitchen-accessories,5.99,4.71,13
+45,House Showpiece Plant,,home-decoration,39.99,4.67,28
+3,Powder Canister,Velvet Touch,beauty,14.99,4.64,89
+54,Citrus Squeezer Yellow,,kitchen-accessories,8.99,4.63,22
+75,Tray,,kitchen-accessories,16.99,4.62,71
+51,Boxed Blender,,kitchen-accessories,39.99,4.56,9
+22,Dog Food,,groceries,10.99,4.55,71
+44,Family Tree Photo Frame,,home-decoration,29.99,4.53,77
+17,Beef Steak,,groceries,12.99,4.47,86
+49,Black Aluminium Cup,,kitchen-accessories,5.99,4.46,75
+70,Red Tongs,,kitchen-accessories,6.99,4.42,82
+6,Calvin Klein CK One,Calvin Klein,fragrances,49.99,4.37,29
+4,Red Lipstick,Chic Cosmetics,beauty,12.99,4.36,91
+5,Red Nail Polish,Nail Couture,beauty,8.99,4.32,79
+77,Yellow Peeler,,kitchen-accessories,5.99,4.24,35
+37,Red Onions,,groceries,1.99,4.2,82
+16,Apple,,groceries,1.99,4.19,8
+36,Protein Powder,,groceries,19.99,4.18,80
+56,Electric Stove,,kitchen-accessories,49.99,4.11,21
+21,Cucumber,,groceries,1.49,4.07,84
+52,Carbon Steel Wok,,kitchen-accessories,29.99,4.05,40
+74,Spoon,,kitchen-accessories,4.99,4.03,59
+59,Glass,,kitchen-accessories,4.99,4.02,46

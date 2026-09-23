@@ -1,0 +1,101 @@
+id,title,brand,category,price,rating,stock,recommendation_score
+1,Essence Mascara Lash Princess,Essence,beauty,9.99,2.56,99,98.7
+2,Eyeshadow Palette with Mirror,Glamour Beauty,beauty,19.99,2.86,34,70.2
+3,Powder Canister,Velvet Touch,beauty,14.99,4.64,89,134.3
+4,Red Lipstick,Chic Cosmetics,beauty,12.99,4.36,91,130.1
+5,Red Nail Polish,Nail Couture,beauty,8.99,4.32,79,124.1
+6,Calvin Klein CK One,Calvin Klein,fragrances,49.99,4.37,29,91.9
+7,Chanel Coco Noir Eau De,Chanel,fragrances,129.99,4.26,58,88.2
+8,Dior J'adore,Dior,fragrances,89.99,3.8,98,107.0
+9,Dolce Shine Eau de,Dolce & Gabbana,fragrances,69.99,3.96,4,67.2
+10,Gucci Bloom Eau de,Gucci,fragrances,79.99,2.74,91,84.3
+11,Annibale Colombo Bed,Annibale Colombo,furniture,1899.99,4.77,88,-240.6
+12,Annibale Colombo Sofa,Annibale Colombo,furniture,2499.99,3.92,60,-391.6
+13,Bedside Table African Cherry,Furniture Co.,furniture,299.99,2.87,64,29.4
+14,Knoll Saarinen Executive Conference Chair,Knoll,furniture,499.99,4.88,26,10.6
+15,Wooden Bathroom Sink With Mirror,Bath Trends,furniture,799.99,3.59,7,-84.7
+16,Apple,,groceries,1.99,4.19,8,87.4
+17,Beef Steak,,groceries,12.99,4.47,86,129.8
+18,Cat Food,,groceries,8.99,3.13,46,83.8
+19,Chicken Meat,,groceries,9.99,3.19,97,110.3
+20,Cooking Oil,,groceries,4.99,4.8,10,100.0
+21,Cucumber,,groceries,1.49,4.07,84,123.1
+22,Dog Food,,groceries,10.99,4.55,71,124.3
+23,Eggs,,groceries,2.99,2.53,9,54.5
+24,Fish Steak,,groceries,14.99,3.78,74,109.6
+25,Green Bell Pepper,,groceries,1.29,3.25,33,81.24
+26,Green Chili Pepper,,groceries,0.99,3.66,3,74.5
+27,Honey Jar,,groceries,6.99,3.97,34,95.0
+28,Ice Cream,,groceries,5.49,3.39,27,80.2
+29,Juice,,groceries,3.99,3.94,50,103.0
+30,Kiwi,,groceries,2.49,4.93,99,147.6
+31,Lemon,,groceries,0.79,3.53,31,85.94
+32,Milk,,groceries,3.49,2.61,27,65.0
+33,Mulberry,,groceries,4.99,4.95,99,147.5
+34,Nescafe Coffee,,groceries,7.99,4.82,57,123.3
+35,Potatoes,,groceries,2.29,4.81,13,102.24
+36,Protein Powder,,groceries,19.99,4.18,80,119.6
+37,Red Onions,,groceries,1.99,4.2,82,124.6
+38,Rice,,groceries,5.99,3.18,59,91.9
+39,Soft Drinks,,groceries,1.99,4.75,53,121.1
+40,Strawberry,,groceries,3.99,3.08,46,83.8
+41,Tissue Paper Box,,groceries,2.49,2.69,86,96.3
+42,Water,,groceries,0.99,4.96,53,125.5
+43,Decoration Swing,,home-decoration,59.99,3.16,47,74.7
+44,Family Tree Photo Frame,,home-decoration,29.99,4.53,77,123.1
+45,House Showpiece Plant,,home-decoration,39.99,4.67,28,99.4
+46,Plant Pot,,home-decoration,14.99,3.01,59,86.7
+47,Table Lamp,,home-decoration,49.99,3.55,9,65.5
+48,Bamboo Spatula,,kitchen-accessories,7.99,3.27,37,82.3
+49,Black Aluminium Cup,,kitchen-accessories,5.99,4.46,75,125.5
+50,Black Whisk,,kitchen-accessories,9.99,3.9,73,112.5
+51,Boxed Blender,,kitchen-accessories,39.99,4.56,9,87.7
+52,Carbon Steel Wok,,kitchen-accessories,29.99,4.05,40,95.0
+53,Chopping Board,,kitchen-accessories,12.99,3.7,14,78.4
+54,Citrus Squeezer Yellow,,kitchen-accessories,8.99,4.63,22,101.8
+55,Egg Slicer,,kitchen-accessories,6.99,3.09,40,80.4
+56,Electric Stove,,kitchen-accessories,49.99,4.11,21,82.7
+57,Fine Mesh Strainer,,kitchen-accessories,9.99,3.04,85,101.3
+58,Fork,,kitchen-accessories,3.99,3.11,7,64.9
+59,Glass,,kitchen-accessories,4.99,4.02,46,102.4
+60,Grater Black,,kitchen-accessories,10.99,3.21,84,104.0
+61,Hand Blender,,kitchen-accessories,34.99,3.86,84,112.2
+62,Ice Cube Tray,,kitchen-accessories,5.99,4.71,13,99.5
+63,Kitchen Sieve,,kitchen-accessories,7.99,3.09,68,94.2
+64,Knife,,kitchen-accessories,14.99,3.26,7,65.7
+65,Lunch Box,,kitchen-accessories,12.99,4.93,94,143.0
+66,Microwave Oven,,kitchen-accessories,89.99,4.82,59,107.9
+67,Mug Tree Stand,,kitchen-accessories,15.99,2.64,88,93.6
+68,Pan,,kitchen-accessories,24.99,2.79,90,95.8
+69,Plate,,kitchen-accessories,3.99,3.65,66,105.2
+70,Red Tongs,,kitchen-accessories,6.99,4.42,82,128.0
+71,Silver Pot With Glass Cap,,kitchen-accessories,39.99,3.22,40,76.4
+72,Slotted Turner,,kitchen-accessories,8.99,3.4,88,110.2
+73,Spice Rack,,kitchen-accessories,19.99,4.87,79,132.9
+74,Spoon,,kitchen-accessories,4.99,4.03,59,109.1
+75,Tray,,kitchen-accessories,16.99,4.62,71,124.5
+76,Wooden Rolling Pin,,kitchen-accessories,11.99,2.92,80,96.0
+77,Yellow Peeler,,kitchen-accessories,5.99,4.24,35,101.1
+78,Apple MacBook Pro 14 Inch Space Grey,Apple,laptops,1999.99,3.65,24,-315.0
+79,Asus Zenbook Pro Dual Screen Laptop,Asus,laptops,1799.99,3.95,45,-258.5
+80,Huawei Matebook X Pro,Huawei,laptops,1399.99,4.98,75,-142.9
+81,Lenovo Yoga 920,Lenovo,laptops,1099.99,2.86,40,-142.8
+82,New DELL XPS 13 9300 Laptop,Dell,laptops,1499.99,2.67,74,-209.6
+83,Blue & Black Check Shirt,Fashion Trends,mens-shirts,29.99,3.64,38,85.8
+84,Gigabyte Aorus Men Tshirt,Gigabyte,mens-shirts,24.99,3.18,90,103.6
+85,Man Plaid Shirt,Classic Wear,mens-shirts,34.99,3.46,82,103.2
+86,Man Short Sleeve Shirt,Casual Comfort,mens-shirts,19.99,2.9,2,55.0
+87,Men Check Shirt,Urban Chic,mens-shirts,27.99,2.72,95,96.3
+88,Nike Air Jordan 1 Red And Black,Nike,mens-shoes,149.99,4.77,7,68.9
+89,Nike Baseball Cleats,Nike,mens-shoes,79.99,3.88,12,67.6
+90,Puma Future Rider Trainers,Puma,mens-shoes,89.99,4.9,90,125.0
+91,Sports Sneakers Off White & Red,Off White,mens-shoes,119.99,4.77,17,79.9
+92,Sports Sneakers Off White Red,Off White,mens-shoes,109.99,4.69,62,102.8
+93,Brown Leather Belt Watch,Fashion Timepieces,mens-watches,89.99,4.19,32,81.8
+94,Longines Master Collection,Longines,mens-watches,1499.99,3.87,100,-172.6
+95,Rolex Cellini Date Black Dial,Rolex,mens-watches,8999.99,4.97,40,-1680.6
+96,Rolex Cellini Moonphase,Rolex,mens-watches,12999.99,2.58,36,-2530.4
+97,Rolex Datejust,Rolex,mens-watches,10999.99,3.66,86,-2083.8
+98,Rolex Submariner Watch,Rolex,mens-watches,13999.99,2.69,55,-2718.7
+99,Amazon Echo Plus,Amazon,mobile-accessories,99.99,4.99,61,110.3
+100,Apple Airpods,Apple,mobile-accessories,129.99,4.15,67,90.5
