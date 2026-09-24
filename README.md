@@ -260,7 +260,7 @@ The system returns products satisfying the specified conditions.
 
 This project demonstrates:
 
-## 🎓 Concepts Demonstrated
+##  Concepts Demonstrated
 
 This project demonstrates:
 
@@ -276,6 +276,11 @@ This project demonstrates:
 - Data analysis
 - CSV export
 - Rule-based recommendation
+
+---
+##  Live Demo
+
+[Click here to open the Smart Product Recommendation System](https://smart-appuct-recommendation-system-t5vnnvmrjyglqosvel2ebw.streamlit.app/)
 
 ---
 
